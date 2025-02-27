@@ -9,4 +9,4 @@ GitHub Repo Viewer is an Android application built using **Kotlin** and **Jetpac
 - **Hilt**
 - **Coil**
 - **Lottie Animation**
-- 
+
