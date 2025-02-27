@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GithubReposApp</string>
+    <string name="title_issue">Issues</string>
+    <string name="title_details">Details</string>
+
+//exception
+    <string name="noInternet_Exception_details">No Internet Connection</string>
+    <string name="service_unreachable_exception_message">Our service is not reachable at the moment</string>
+    <string name="timeOut_Exception_message">Timeout, Check Your Internet Connection</string>
+    <string name="unKnown_Exception_message">We Are Working On This Message</string>
+
+    //errorScreen
+    <string name="some_Thing_wrong">Something Went Wrong..</string>
+    <string name="retry">RETRY</string>
+</resources>
