@@ -12,7 +12,7 @@ Your task is to develop a GitHub Repo Viewer app that allows users to view repos
 - **Coil**
 - **Lottie Animation**
 
-- ## Screen Shots
+## Screen Shots
 ![Screenshot 2025-02-27 190235](https://github.com/user-attachments/assets/a448e16c-49a6-4f8f-8ed1-e0d4cf3ee27e)
 ![Screenshot 2025-02-27 190252](https://github.com/user-attachments/assets/c1c4a077-403a-406f-b972-f20fed0a0dce)
 ![Screenshot 2025-02-27 190314](https://github.com/user-attachments/assets/fd735947-2ab7-49c5-891f-d9db00aba5a9)
